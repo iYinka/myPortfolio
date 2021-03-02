@@ -1,3 +1,21 @@
+# myPortfolio 
+
+### This is my most recent update done on my portfolio. 
+### More modifications will be done to the screen resolutions but in the main time PC and iPhoneX have the optimized views. 
+
+## Click this link to see my portfolio: https://iyinka-1060d.web.app/
+
+
+
+
+
+
+
+
+
+
+
+
 ## A Stripe-style animated navbar menu
 Built with React, [Styled Components](https://www.styled-components.com/), and [React-Flip-Toolkit](https://github.com/aholachek/react-flip-toolkit).
 
